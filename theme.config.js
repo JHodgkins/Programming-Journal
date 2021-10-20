@@ -1,12 +1,12 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  github: 'https://github.com/JHodgkins/Programming-Journal',
+  docsRepositoryBase: 'https://github.com/JHodgkins/Programming-Journal/blob/master',
+  titleSuffix: ' – Programming Journal',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">J Hodgkins</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        Road to Software Development
       </span>
     </>
   ),
